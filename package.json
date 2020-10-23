@@ -1,0 +1,20 @@
+{
+  "name": "node-docker",
+  "version": "1.0.0",
+  "description": "https://docs.docker.com/get-started/nodejs/build-images/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zeljkofilipin/node-docker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zeljkofilipin/node-docker/issues"
+  },
+  "homepage": "https://github.com/zeljkofilipin/node-docker#readme"
+}
