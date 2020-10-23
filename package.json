@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/zeljkofilipin/node-docker/issues"
   },
-  "homepage": "https://github.com/zeljkofilipin/node-docker#readme"
+  "homepage": "https://github.com/zeljkofilipin/node-docker#readme",
+  "dependencies": {
+    "ronin-mocks": "^0.1.6",
+    "ronin-server": "^0.1.3"
+  }
 }
