@@ -4,6 +4,7 @@
   "description": "https://docs.docker.com/get-started/nodejs/build-images/",
   "main": "index.js",
   "scripts": {
+    "debug": "nodemon --inspect=0.0.0.0:9229 server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -18,6 +19,7 @@
   },
   "homepage": "https://github.com/zeljkofilipin/node-docker#readme",
   "dependencies": {
+    "nodemon": "^2.0.6",
     "ronin-database": "^0.1.1",
     "ronin-mocks": "^0.1.6",
     "ronin-server": "^0.1.3"
